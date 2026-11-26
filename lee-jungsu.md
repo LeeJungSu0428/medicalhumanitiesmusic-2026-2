@@ -12,10 +12,9 @@ ICD: 6A02
 
 In *Keys to the Heart* (2018), directed by Choi Sung-hyun, Jin-tae is portrayed as a young man with savant syndrome and an exceptional talent for playing the piano. In the scene where he plays Brahms's “Hungarian Dance No. 5” with pianist Han Ga-yul, music becomes a way for the two characters to connect. Sharing the keyboard and responding to each other's playing allows Jin-tae to participate actively in an exchange rather than simply receive help. I felt that this scene encouraged me to see him as a person with his own interests and abilities, beyond the difficulties others notice in his daily life. This connects to listening as discussed in class, because attending to his performance means trying to understand how he expresses himself and relates to others. At the same time, it raises the question of whether the film helps us understand disability or makes acceptance depend too heavily on exceptional musical talent.
 
-진태와 한가율은 한 대의 피아노에서 브람스의 [〈헝가리 무곡 제5번〉](https://www.youtube.com/watch?v=vaGbW4eIByY)을 함께 연주한다. 두 사람은 서로의 연주를 들으며 곡의 속도가 바뀌는 순간에도 박자를 맞춘다.
+진태와 한가율은 한 대의 피아노에서 브람스의 [〈헝가리 무곡 제5번〉](https://www.youtube.com/watch?v=vaGbW4eIByY)을 함께 연주한다.
 
-Jin-tae and Ga-yul sit at the same piano and play [Brahms’s Hungarian Dance No. 5](https://www.youtube.com/watch?v=vaGbW4eIByY) together. They listen to each other and stay in sync as the tempo changes.
-
+Jin-tae and Ga-yul sit at the same piano and play [Brahms’s Hungarian Dance No. 5](https://www.youtube.com/watch?v=vaGbW4eIByY) together.
 
 <img src="./lee-jungsu.png" alt="피아노 건반 위로 왼쪽의 푸른빛과 오른쪽의 주황빛이 겹친다" width="800" height="1000" />
 
